@@ -1,5 +1,4 @@
-# ADM_HW1_ZAIN
-ADM Homework 1
+# PYTHON
 
 **Stamps Folder** contains Snapshot of all HakerRank Submission for Homework 1 programs.
 
